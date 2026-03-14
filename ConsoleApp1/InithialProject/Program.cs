@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to Statistics App");
+Console.WriteLine("Welocome!\nStatistics calculations:");
 
 Console.Write("Enter first number: ");
 string first = Console.ReadLine();

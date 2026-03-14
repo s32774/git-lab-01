@@ -14,3 +14,11 @@ This merge was not fast-forward because after creating the `feature-max` branch 
 
 As a result both branches had different histories and Git had to create a merge commit to combine them.
 
+
+
+TAsl 6 
+
+This task complete by me 
+
+Add its demonstrate rebase with the feature-min(branch)
+

@@ -15,3 +15,5 @@ else
 {
     Console.WriteLine("Invalid input");
 }
+int[] values = { 2, 4, 6, 8 };
+Console.WriteLine("Average = " + StatisticsHelper.CalculateAverage(values));

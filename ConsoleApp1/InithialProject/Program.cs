@@ -17,3 +17,4 @@ else
 }
 int[] values = { 2, 4, 6, 8 };
 Console.WriteLine("Average = " + StatisticsHelper.CalculateAverage(values));
+Console.WriteLine("Max = " + StatisticsHelper.CalculateMax(values));

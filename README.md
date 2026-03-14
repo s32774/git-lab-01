@@ -22,3 +22,7 @@ This task complete by me
 
 Add its demonstrate rebase with the feature-min(branch)
 
+TASK 7 
+Code worked +++
+I created the conflist in the WELCOME MESSAGE in the PRoodram.cs - change this message in the different branches 
+I resolve the conflict by choosing a final message and removing the conflict markers
